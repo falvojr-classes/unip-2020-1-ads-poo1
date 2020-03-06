@@ -1,0 +1,11 @@
+/home/falvojr/Downloads/Exercicio08/bin/Debug/netcoreapp3.1/Exercicio08
+/home/falvojr/Downloads/Exercicio08/bin/Debug/netcoreapp3.1/Exercicio08.deps.json
+/home/falvojr/Downloads/Exercicio08/bin/Debug/netcoreapp3.1/Exercicio08.runtimeconfig.json
+/home/falvojr/Downloads/Exercicio08/bin/Debug/netcoreapp3.1/Exercicio08.runtimeconfig.dev.json
+/home/falvojr/Downloads/Exercicio08/bin/Debug/netcoreapp3.1/Exercicio08.dll
+/home/falvojr/Downloads/Exercicio08/bin/Debug/netcoreapp3.1/Exercicio08.pdb
+/home/falvojr/Downloads/Exercicio08/obj/Debug/netcoreapp3.1/Exercicio08.csprojAssemblyReference.cache
+/home/falvojr/Downloads/Exercicio08/obj/Debug/netcoreapp3.1/Exercicio08.AssemblyInfoInputs.cache
+/home/falvojr/Downloads/Exercicio08/obj/Debug/netcoreapp3.1/Exercicio08.AssemblyInfo.cs
+/home/falvojr/Downloads/Exercicio08/obj/Debug/netcoreapp3.1/Exercicio08.dll
+/home/falvojr/Downloads/Exercicio08/obj/Debug/netcoreapp3.1/Exercicio08.pdb
