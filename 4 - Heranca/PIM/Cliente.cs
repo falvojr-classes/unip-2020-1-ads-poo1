@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace PIM
 {
-    public class Cliente 
+    public abstract class Cliente : BaseCRUD<Cliente>
     {
         public long Documento { get; set; }
         public string Senha { get; set; }
@@ -12,14 +12,6 @@ namespace PIM
         public DateTime UltimoAcesso { get; set; }
         public List<Endereco> Enderecos { get; set; }
         public List<Interesse> Interesses { get; set; }
-        public List<DadoBancario> DadoBancarios { get; set; }
-
-        public bool Autenticar() 
-        {
-            if (Senha.Equals("123") && Documento.Equals(123)) {
-                return true;
-            }
-            return false;
-        }
+        public List<DadoBancario> DadoBancarios { get; set; }  
     }
 }

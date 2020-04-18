@@ -1,0 +1,11 @@
+C:\Users\Venilton\Documents\Git\UNIP\unip-2020-1-ads-poo1\3 - Encapsulamento\PIM\bin\Debug\netcoreapp3.1\PIM.exe
+C:\Users\Venilton\Documents\Git\UNIP\unip-2020-1-ads-poo1\3 - Encapsulamento\PIM\bin\Debug\netcoreapp3.1\PIM.deps.json
+C:\Users\Venilton\Documents\Git\UNIP\unip-2020-1-ads-poo1\3 - Encapsulamento\PIM\bin\Debug\netcoreapp3.1\PIM.runtimeconfig.json
+C:\Users\Venilton\Documents\Git\UNIP\unip-2020-1-ads-poo1\3 - Encapsulamento\PIM\bin\Debug\netcoreapp3.1\PIM.runtimeconfig.dev.json
+C:\Users\Venilton\Documents\Git\UNIP\unip-2020-1-ads-poo1\3 - Encapsulamento\PIM\bin\Debug\netcoreapp3.1\PIM.dll
+C:\Users\Venilton\Documents\Git\UNIP\unip-2020-1-ads-poo1\3 - Encapsulamento\PIM\bin\Debug\netcoreapp3.1\PIM.pdb
+C:\Users\Venilton\Documents\Git\UNIP\unip-2020-1-ads-poo1\3 - Encapsulamento\PIM\obj\Debug\netcoreapp3.1\PIM.csprojAssemblyReference.cache
+C:\Users\Venilton\Documents\Git\UNIP\unip-2020-1-ads-poo1\3 - Encapsulamento\PIM\obj\Debug\netcoreapp3.1\PIM.AssemblyInfoInputs.cache
+C:\Users\Venilton\Documents\Git\UNIP\unip-2020-1-ads-poo1\3 - Encapsulamento\PIM\obj\Debug\netcoreapp3.1\PIM.AssemblyInfo.cs
+C:\Users\Venilton\Documents\Git\UNIP\unip-2020-1-ads-poo1\3 - Encapsulamento\PIM\obj\Debug\netcoreapp3.1\PIM.dll
+C:\Users\Venilton\Documents\Git\UNIP\unip-2020-1-ads-poo1\3 - Encapsulamento\PIM\obj\Debug\netcoreapp3.1\PIM.pdb
