@@ -7,22 +7,22 @@ namespace PIM
     {
         public string Descricao { get; set; }   
 
-        public override void Incluir()
+        public void Incluir()
         {
-            
+            Console.WriteLine("Incluindo Interesse " + Descricao);
         }
 
-        public override void Alterar()
+        public void Alterar()
+        {
+            Console.WriteLine("Alterando Interesse " + Descricao);
+        }
+
+        public void Excluir()
         {
 
         }
 
-        public override void Excluir()
-        {
-
-        }
-
-        public override List<Interesse> Listar()
+        public List<Interesse> Listar()
         {
             return null;
         }

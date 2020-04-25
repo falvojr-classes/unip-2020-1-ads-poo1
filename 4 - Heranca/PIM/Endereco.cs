@@ -13,22 +13,22 @@ namespace PIM
         public string Cidade { get; set; }
         public string Uf { get; set; }     
         
-        public override void Incluir()
+        public void Incluir()
         {
             
         }
 
-        public override void Alterar()
+        public void Alterar()
         {
 
         }
 
-        public override void Excluir()
+        public void Excluir()
         {
 
         }
 
-        public override List<Endereco> Listar()
+        public List<Endereco> Listar()
         {
             return null;
         }  

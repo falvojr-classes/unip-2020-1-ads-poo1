@@ -9,22 +9,22 @@ namespace PIM
         public string Agencia { get; set; }    
         public string Conta { get; set; }    
         
-        public override void Incluir()
+        public void Incluir()
         {
             
         }
 
-        public override void Alterar()
+        public void Alterar()
         {
 
         }
 
-        public override void Excluir()
+        public void Excluir()
         {
 
         }
 
-        public override List<DadoBancario> Listar()
+        public List<DadoBancario> Listar()
         {
             return null;
         }   
