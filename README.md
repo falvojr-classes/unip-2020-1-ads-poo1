@@ -15,9 +15,9 @@
 1. [Encapsulamento](https://drive.google.com/open?id=1kFMkHtbanPkQKdJ5-jB5HVty4evdi7PlcP2OkDabAh4)
 1. [Herança](https://drive.google.com/open?id=1MFas3XAeewpOiYYldFDXog6Z41pZcUys3K0RoXrMlA8)
 1. [Polimorfismo](https://drive.google.com/open?id=1wjhXtCKZVy3b4l2rlqco_yTuPX9dm05GZI8NF9Wjevs)
-1. Padrões de Projeto *(abordagem totalmente prática)*
-1. Persistência *(abordagem totalmente prática)*
-1. Plataforma .NET *(abordagem totalmente prática)*
+1. Padrões de Projeto *(Projeto Base)*
+1. Persistência *(Projeto Base)*
+1. Plataforma .NET *(Projeto Base)*
 
 ### Links Úteis
 
